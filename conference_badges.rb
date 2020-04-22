@@ -12,6 +12,7 @@ def badge_maker(name)
 
 
 
+
 #def badge_maker(name)
   #"hello, my names is #{name}!"
 #end
